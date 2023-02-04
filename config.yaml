@@ -1,0 +1,14 @@
+login:
+  token: ""
+
+channel:
+  channel_names: ['ran-by-eagle','smacked-by-eagle','getranfaggot']
+  amount: 1 
+
+
+roles:
+  role_names: ['ranbyeagle','smackedbyeagle',"cummedonbyeagle"]
+
+webhooks:
+  message: "@everyone LMAOOO NIGGER GET SMACKED BY discord.gg/botnet"
+  names: ['raped by eagle', 'slammed by eagle', 'eagle was here']
